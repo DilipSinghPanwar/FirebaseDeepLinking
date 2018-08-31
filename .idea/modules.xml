@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:\@DilipWorkspace\FirebaseDeepLinking\DeepLinkingFirebase.iml" filepath="D:\@DilipWorkspace\FirebaseDeepLinking\DeepLinkingFirebase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FirebaseDeepLinking.iml" filepath="$PROJECT_DIR$/FirebaseDeepLinking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>

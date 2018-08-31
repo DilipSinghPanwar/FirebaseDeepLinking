@@ -1,0 +1,163 @@
+{
+  "project_info": {
+    "project_number": "654480164806",
+    "firebase_url": "https://restaurant-app-189009.firebaseio.com",
+    "project_id": "restaurant-app-189009",
+    "storage_bucket": "restaurant-app-189009.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654480164806:android:a4155a2fb084a93a",
+        "android_client_info": {
+          "package_name": "ch.borexpoissons"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654480164806-jihkd18h61nj8ovar6d75t943svg0lnq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ch.borexpoissons",
+            "certificate_hash": "dec17edbee3bdb75a0423f2a1bac584d7055bee9"
+          }
+        },
+        {
+          "client_id": "654480164806-g32a5br1djkqejl2m9roj00havmeub2i.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "654480164806-kriop788d3olkot51lge39amlfjteaga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHymbF6xbTWehf5R7ZZ4g0Vets315w9p4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654480164806-g32a5br1djkqejl2m9roj00havmeub2i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654480164806:android:b69620830fdc21b1",
+        "android_client_info": {
+          "package_name": "com.androiddevs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654480164806-76drgpiara9t20qp4k7j7dkprsr84ghg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.androiddevs",
+            "certificate_hash": "dec17edbee3bdb75a0423f2a1bac584d7055bee9"
+          }
+        },
+        {
+          "client_id": "654480164806-g32a5br1djkqejl2m9roj00havmeub2i.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "654480164806-kriop788d3olkot51lge39amlfjteaga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHymbF6xbTWehf5R7ZZ4g0Vets315w9p4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654480164806-g32a5br1djkqejl2m9roj00havmeub2i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654480164806:android:f05c7985f83daa13",
+        "android_client_info": {
+          "package_name": "com.grubbuck"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654480164806-oof47emr3cbdmu9vprbg0sk4tg3d582m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.grubbuck",
+            "certificate_hash": "bfabbbe8838f7eb8d2767b0456f8045d412c44fd"
+          }
+        },
+        {
+          "client_id": "654480164806-kltbkj9nfn017akgjjfpik03r761fu6v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.grubbuck",
+            "certificate_hash": "dec17edbee3bdb75a0423f2a1bac584d7055bee9"
+          }
+        },
+        {
+          "client_id": "654480164806-g32a5br1djkqejl2m9roj00havmeub2i.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "654480164806-kriop788d3olkot51lge39amlfjteaga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHymbF6xbTWehf5R7ZZ4g0Vets315w9p4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654480164806-g32a5br1djkqejl2m9roj00havmeub2i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
